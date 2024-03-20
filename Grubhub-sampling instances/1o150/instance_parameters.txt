@@ -1,0 +1,2 @@
+meters_per_minute	left-time-window	right-time-window	pay per order	guaranteed pay per hour
+240/320/400	40	90	10	24
